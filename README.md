@@ -1,4 +1,4 @@
-### ✨ Who am I?
+###  Who am I?
 My name is Benyamin Talei and I’m admin of NewLife Company.
 
 #### 💻 Technologies that I use
